@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardosor
 - 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning suprevised learning
+- 🌱 I’m currently learning supervised learning
 - 💞️ I’m looking to collaborate on ML competitions
 - 📫 How to reach me lcedeno@umich.edu
 
