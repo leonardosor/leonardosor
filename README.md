@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning supervised learning
 - 💞️ I’m looking to collaborate on ML competitions
 - 📫 How to reach me lcedeno@umich.edu
 
